@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">drynomore</string>
+    <string name="nfc_notification_title">NFC Tag detected!</string>
 </resources>
